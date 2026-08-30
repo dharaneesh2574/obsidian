@@ -11,16 +11,14 @@
             "id": "e749240e3d88fb7e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Books/Productivity/ByteByteGo system design.pdf",
-                "page": 2,
-                "left": -9,
-                "top": 508,
-                "zoom": 1.6652381111495302
+                "file": "Summa.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ByteByteGo system design"
+              "icon": "lucide-file",
+              "title": "Summa"
             }
           }
         ]
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Productivity/ByteByteGo system design.pdf",
+                "file": "Summa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Productivity/ByteByteGo system design.pdf",
+                "file": "Summa.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,8 +203,8 @@
   },
   "active": "e749240e3d88fb7e",
   "lastOpenFiles": [
-    "Summa.md",
     "Books/Productivity/ByteByteGo system design.pdf",
+    "Summa.md",
     "Books/Productivity",
     "Untitled.canvas",
     "Untitled.base",

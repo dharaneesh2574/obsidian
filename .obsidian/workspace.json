@@ -11,16 +11,14 @@
             "id": "4dafe06ca0dc5d31",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Books/Productivity/ByteByteGo system design.pdf",
-                "page": 37,
-                "left": -11,
-                "top": 570,
-                "zoom": 1.4194232499276085
+                "file": "Ideas/Books/Self-help Book list.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ByteByteGo system design"
+              "icon": "lucide-file",
+              "title": "Self-help Book list"
             }
           }
         ]
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Productivity/ByteByteGo system design.pdf",
+                "file": "Ideas/Books/Self-help Book list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Productivity/ByteByteGo system design.pdf",
+                "file": "Ideas/Books/Self-help Book list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,23 +201,27 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3eefecd47a993eee",
+  "active": "4dafe06ca0dc5d31",
   "lastOpenFiles": [
-    "Ideas/Books/Self-help Book list.md",
-    "Summa.md",
-    "Books/Productivity/ByteByteGo system design.pdf",
-    "Ideas/Books",
-    "Ideas",
-    "Books/Self-Help/The 48 Laws Of Power.pdf",
-    "Books/Self-Help/ByteByteGo system design.pdf",
-    "Books/Self-Help",
-    "Books/Productivity",
-    "Untitled.canvas",
-    "Untitled.base",
-    "2026-08-24.md",
+    "Daily/Tasks.md",
+    "Daily/Remember.md",
     "Untitled.md",
+    "Books/Productivity/ByteByteGo system design.pdf",
+    "Summa.md",
+    "Books/Academics/Sem - 9",
+    "Books/Academics",
+    "Notes/Academics/Sem - 9",
+    "Notes/Academics/Untitled.md",
+    "Notes/Academics",
+    "Notes/Books",
+    "Notes",
+    "Daily",
+    "Books/Self-Help/The 48 Laws Of Power.pdf",
+    "Ideas/Books/Self-help Book list.md",
+    "Ideas/Books",
+    "Untitled.canvas",
+    "2026-08-24.md",
     "Untitled/Untitled.canvas",
-    "Welcome.md",
-    "Books"
+    "Welcome.md"
   ]
 }

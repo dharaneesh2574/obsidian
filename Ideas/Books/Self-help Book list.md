@@ -1,0 +1,4 @@
+- [ ] Algoriithms to live by
+- [ ] Working Backwards Amazon
+- [ ] Psycho Cybernetics
+- [ ] How Googls Works - Eric Schmidt

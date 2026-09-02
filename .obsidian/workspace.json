@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a74451dcf50b7201",
+        "id": "798ee20d6d5d390a",
         "type": "tabs",
         "children": [
           {
-            "id": "4dafe06ca0dc5d31",
+            "id": "4708305167153fc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas/Books/Self-help Book list.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Self-help Book list"
+              "title": "New tab"
             }
           }
         ]
@@ -83,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1d6bd470007daca0",
@@ -99,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Books/Self-help Book list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +156,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/Books/Self-help Book list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,12 +196,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4dafe06ca0dc5d31",
+  "active": "4708305167153fc6",
   "lastOpenFiles": [
-    "Daily/Tasks.md",
+    "2026-09-02.md",
+    "Books/Self-Help/The Mom Test by @robfitz.pdf",
+    "Ideas/Books/Productivity Book list.md",
+    "Ideas/Books/Self-help Book list.md",
+    "Ideas/Books/Untitled.md",
     "Daily/Remember.md",
-    "Untitled.md",
+    "Books/Self-Help/The 48 Laws Of Power.pdf",
     "Books/Productivity/ByteByteGo system design.pdf",
+    "Daily/Tasks.md",
+    "Untitled.md",
     "Summa.md",
     "Books/Academics/Sem - 9",
     "Books/Academics",
@@ -216,9 +217,6 @@
     "Notes/Books",
     "Notes",
     "Daily",
-    "Books/Self-Help/The 48 Laws Of Power.pdf",
-    "Ideas/Books/Self-help Book list.md",
-    "Ideas/Books",
     "Untitled.canvas",
     "2026-08-24.md",
     "Untitled/Untitled.canvas",

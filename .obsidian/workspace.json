@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "798ee20d6d5d390a",
+        "id": "159c1cb1e4b97244",
         "type": "tabs",
         "children": [
           {
-            "id": "4708305167153fc6",
+            "id": "4be8862da0b9815f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1d6bd470007daca0",
@@ -96,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/Productivity/ByteByteGo system design.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Books/Productivity/ByteByteGo system design.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,10 +184,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
@@ -196,16 +197,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4708305167153fc6",
+  "active": "3eefecd47a993eee",
   "lastOpenFiles": [
+    "Notes/learnings/opencode-agents-vs-skills.md",
     "2026-09-02.md",
+    "Books/Productivity/ByteByteGo system design.pdf",
+    "Notes/learnings",
+    "Notes/Untitled.md",
+    "Books/Self-Help/The 48 Laws Of Power.pdf",
     "Books/Self-Help/The Mom Test by @robfitz.pdf",
-    "Ideas/Books/Productivity Book list.md",
     "Ideas/Books/Self-help Book list.md",
+    "Ideas/Books/Productivity Book list.md",
+    "Untitled.canvas",
     "Ideas/Books/Untitled.md",
     "Daily/Remember.md",
-    "Books/Self-Help/The 48 Laws Of Power.pdf",
-    "Books/Productivity/ByteByteGo system design.pdf",
     "Daily/Tasks.md",
     "Untitled.md",
     "Summa.md",
@@ -216,8 +221,6 @@
     "Notes/Academics",
     "Notes/Books",
     "Notes",
-    "Daily",
-    "Untitled.canvas",
     "2026-08-24.md",
     "Untitled/Untitled.canvas",
     "Welcome.md"

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "159c1cb1e4b97244",
+        "id": "5153c8134c5bdf3d",
         "type": "tabs",
         "children": [
           {
-            "id": "4be8862da0b9815f",
+            "id": "4c09e3359baa9653",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -38,7 +38,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -197,8 +197,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3eefecd47a993eee",
+  "active": "3da8825b2b0b65e5",
   "lastOpenFiles": [
+    "Notes/learnings/System-Design/Usecases",
+    "Notes/learnings/System-Design/Concepts",
+    "Notes/learnings/System-Design",
+    "Daily/Tasks.md",
+    "Daily/Remember.md",
+    "Untitled.canvas",
     "Notes/learnings/opencode-agents-vs-skills.md",
     "2026-09-02.md",
     "Books/Productivity/ByteByteGo system design.pdf",
@@ -208,10 +214,7 @@
     "Books/Self-Help/The Mom Test by @robfitz.pdf",
     "Ideas/Books/Self-help Book list.md",
     "Ideas/Books/Productivity Book list.md",
-    "Untitled.canvas",
     "Ideas/Books/Untitled.md",
-    "Daily/Remember.md",
-    "Daily/Tasks.md",
     "Untitled.md",
     "Summa.md",
     "Books/Academics/Sem - 9",
@@ -219,8 +222,6 @@
     "Notes/Academics/Sem - 9",
     "Notes/Academics/Untitled.md",
     "Notes/Academics",
-    "Notes/Books",
-    "Notes",
     "2026-08-24.md",
     "Untitled/Untitled.canvas",
     "Welcome.md"

@@ -11,10 +11,14 @@
             "id": "4c09e3359baa9653",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/learnings/System-Design/Usecases/Discord-Concurrent-Websockets.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Discord-Concurrent-Websockets"
             }
           }
         ]
@@ -199,13 +203,14 @@
   },
   "active": "3da8825b2b0b65e5",
   "lastOpenFiles": [
+    "Notes/learnings/System-Design/Usecases/Discord-Concurrent-Websockets.md",
+    "Notes/learnings/opencode-agents-vs-skills.md",
     "Notes/learnings/System-Design/Usecases",
     "Notes/learnings/System-Design/Concepts",
     "Notes/learnings/System-Design",
     "Daily/Tasks.md",
     "Daily/Remember.md",
     "Untitled.canvas",
-    "Notes/learnings/opencode-agents-vs-skills.md",
     "2026-09-02.md",
     "Books/Productivity/ByteByteGo system design.pdf",
     "Notes/learnings",
@@ -215,13 +220,11 @@
     "Ideas/Books/Self-help Book list.md",
     "Ideas/Books/Productivity Book list.md",
     "Ideas/Books/Untitled.md",
-    "Untitled.md",
     "Summa.md",
     "Books/Academics/Sem - 9",
     "Books/Academics",
     "Notes/Academics/Sem - 9",
     "Notes/Academics/Untitled.md",
-    "Notes/Academics",
     "2026-08-24.md",
     "Untitled/Untitled.canvas",
     "Welcome.md"

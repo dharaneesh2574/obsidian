@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/learnings/System-Design/Usecases/Netflix - EVCache Multi-Region Caching.md",
+                "file": "Notes/learnings/System-Design/Concepts/Erasure Coding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Netflix - EVCache Multi-Region Caching"
+              "title": "Erasure Coding"
             }
           }
         ]
@@ -187,10 +187,31 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3ec4ec576548dc74",
+  "active": "097e26639c7676f5",
   "lastOpenFiles": [
-    "Summa.md",
+    "Notes/learnings/System-Design/Usecases/Amazon - Lambda Asynchronous Invocation Isolation.md",
+    "Notes/learnings/System-Design/Concepts/Shuffle Sharding.md",
+    "Books/Political/milestones-f1.pdf",
+    "Books/Political",
+    "Notes/learnings/System-Design/Usecases/Uber - H3 Geospatial Marketplace Analysis.md",
+    "Notes/learnings/System-Design/Usecases/Stripe - Safe API Retries with Idempotency Keys.md",
+    "Notes/learnings/System-Design/Usecases/LinkedIn - Kafka Event Distribution and Delivery Auditing.md",
+    "Notes/learnings/System-Design/Usecases/Google - Dapper Distributed Tracing.md",
+    "Notes/learnings/System-Design/Usecases/Cloudflare - Pingora Shared Origin Connection Pools.md",
+    "Notes/learnings/System-Design/Concepts/Partitioned Log.md",
+    "Notes/learnings/System-Design/Concepts/Idempotency.md",
+    "Notes/learnings/System-Design/Concepts/Hierarchical Spatial Indexing.md",
+    "Notes/learnings/System-Design/Concepts/Distributed Tracing.md",
+    "Notes/learnings/System-Design/Concepts/Connection Pooling.md",
+    "Notes/learnings/System-Design/Usecases/Dropbox - Magic Pocket Erasure-Coded Storage.md",
+    "Notes/learnings/System-Design/Concepts/Erasure Coding.md",
+    "Notes/learnings/System-Design/Usecases/YouTube - Video Processing Pipeline.md",
     "Notes/learnings/System-Design/Usecases/Netflix - EVCache Multi-Region Caching.md",
+    "Notes/learnings/System-Design/Usecases/Google - Globally Consistent Transactions with Spanner.md",
+    "Notes/learnings/System-Design/Usecases/Discord-Concurrent-Websockets.md",
+    "Notes/learnings/System-Design/Usecases/Amazon - Always-Available Shopping Cart with Dynamo.md",
+    "Notes/learnings/System-Design/Concepts/External Consistency.md",
+    "Summa.md",
     "Books/Productivity/ByteByteGo system design.pdf",
     "https:/github.com/dharaneesh2574/obsidian",
     "https:/github.com/dharaneesh2574",

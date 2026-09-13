@@ -309,6 +309,176 @@ C++ supports runtime polymorphism through inheritance, virtual functions, overri
 
 C++ also supports compile-time polymorphism through function overloading, operator overloading, and templates, although the video focuses on runtime polymorphism.
 
+## Python examples for the key concepts
+
+> [!note] Editor-added examples
+> These examples are not taken verbatim from the video. They demonstrate the concepts in Python, which is multi-paradigm and supports OOP without requiring every program to be class-based.
+
+### Class, object, constructor, and static method — Q5–Q8
+
+```python
+class Vehicle:
+    wheels = 4  # Class attribute shared by instances
+
+    def __init__(self, brand: str) -> None:
+        self.brand = brand  # Instance attribute
+
+    def describe(self) -> str:
+        return f"{self.brand} vehicle with {self.wheels} wheels"
+
+    @staticmethod
+    def category() -> str:
+        return "Transport"
+
+
+car = Vehicle("Tata")  # car is an object (instance)
+print(car.describe())
+print(Vehicle.category())  # No object is required
+```
+
+Python uses `__init__` to initialize a newly created object. It is commonly called the constructor in interviews, although object creation itself begins in `__new__`.
+
+### Encapsulation with controlled access — Q29
+
+```python
+class BankAccount:
+    def __init__(self, opening_balance: float = 0) -> None:
+        self._balance = opening_balance
+
+    @property
+    def balance(self) -> float:
+        return self._balance
+
+    def deposit(self, amount: float) -> None:
+        if amount <= 0:
+            raise ValueError("Deposit must be positive")
+        self._balance += amount
+```
+
+Callers can read `balance` and change it only through operations that preserve the class’s rules. Python relies mainly on naming conventions and properties rather than strict private-member enforcement.
+
+### Inheritance, overriding, and runtime polymorphism — Q13, Q22, Q24, Q26
+
+```python
+class Animal:
+    def speak(self) -> str:
+        raise NotImplementedError
+
+
+class Dog(Animal):
+    def speak(self) -> str:
+        return "Woof"
+
+
+class Cat(Animal):
+    def speak(self) -> str:
+        return "Meow"
+
+
+def announce(animal: Animal) -> None:
+    print(animal.speak())
+
+
+for animal in (Dog(), Cat()):
+    announce(animal)  # The runtime type selects the implementation
+```
+
+`Dog` and `Cat` inherit from `Animal` and override `speak()`. The same `announce()` function works with either object.
+
+### Abstract class and interface-like contract — Q21, Q30–Q36
+
+```python
+from abc import ABC, abstractmethod
+
+
+class PaymentProcessor(ABC):
+    @abstractmethod
+    def pay(self, amount: float) -> None:
+        """Charge the given amount."""
+
+
+class CardProcessor(PaymentProcessor):
+    def pay(self, amount: float) -> None:
+        print(f"Charged ₹{amount:.2f} to the card")
+
+
+processor = CardProcessor()
+processor.pay(499.0)
+```
+
+`PaymentProcessor` specifies **what** subclasses must do while `CardProcessor` supplies **how** it is done. Instantiating `PaymentProcessor` directly raises `TypeError` because it has an unimplemented abstract method.
+
+### Method “overloading” in Python — Q23, Q25, Q28
+
+Python does not overload methods by signature in the Java/C++ sense. Defining the same method name twice replaces the earlier definition. A common alternative is default arguments:
+
+```python
+class Greeter:
+    def greet(self, name: str | None = None) -> str:
+        if name is None:
+            return "Hello!"
+        return f"Hello, {name}!"
+
+
+greeter = Greeter()
+print(greeter.greet())
+print(greeter.greet("Dharaneesh"))
+```
+
+For type-based dispatch, Python also provides `functools.singledispatch` and `singledispatchmethod`.
+
+### Operator overloading — Q27
+
+```python
+from dataclasses import dataclass
+
+
+@dataclass
+class Vector:
+    x: int
+    y: int
+
+    def __add__(self, other: "Vector") -> "Vector":
+        return Vector(self.x + other.x, self.y + other.y)
+
+
+total = Vector(2, 3) + Vector(4, 1)
+print(total)  # Vector(x=6, y=4)
+```
+
+Implementing the special method `__add__` defines how `+` behaves for `Vector` objects.
+
+### Exception handling and cleanup — Q40–Q44
+
+```python
+file = None
+
+try:
+    file = open("data.txt", encoding="utf-8")
+    content = file.read()
+except FileNotFoundError:
+    content = ""
+else:
+    print("File read successfully")
+finally:
+    if file is not None:
+        file.close()
+```
+
+- `try` contains code that may fail.
+- `except` handles a matching exception.
+- `else` runs only when no exception occurs.
+- `finally` performs cleanup.
+
+In production Python, a context manager is the cleaner resource-management pattern:
+
+```python
+with open("data.txt", encoding="utf-8") as file:
+    content = file.read()
+```
+
+The file is closed automatically when the `with` block exits, including when an exception occurs.
+
 ## Interview answer framework
 
 For most concept questions, use this four-part structure:

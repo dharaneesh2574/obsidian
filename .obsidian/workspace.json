@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5153c8134c5bdf3d",
+        "id": "fd1b5274c05cad65",
         "type": "tabs",
         "children": [
           {
-            "id": "4c09e3359baa9653",
+            "id": "afe3cd1f23eed68a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/learnings/System-Design/Usecases/Discord-Concurrent-Websockets.md",
+                "file": "Ideas/Books/Self-help Book list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discord-Concurrent-Websockets"
+              "title": "Self-help Book list"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 218.59765625
   },
   "right": {
     "id": "1d6bd470007daca0",
@@ -201,32 +201,50 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3da8825b2b0b65e5",
+  "active": "afe3cd1f23eed68a",
   "lastOpenFiles": [
-    "Notes/learnings/System-Design/Usecases/Discord-Concurrent-Websockets.md",
-    "Notes/learnings/opencode-agents-vs-skills.md",
-    "Notes/learnings/System-Design/Usecases",
-    "Notes/learnings/System-Design/Concepts",
-    "Notes/learnings/System-Design",
-    "Daily/Tasks.md",
-    "Daily/Remember.md",
-    "Untitled.canvas",
-    "2026-09-02.md",
-    "Books/Productivity/ByteByteGo system design.pdf",
-    "Notes/learnings",
-    "Notes/Untitled.md",
-    "Books/Self-Help/The 48 Laws Of Power.pdf",
-    "Books/Self-Help/The Mom Test by @robfitz.pdf",
-    "Ideas/Books/Self-help Book list.md",
     "Ideas/Books/Productivity Book list.md",
-    "Ideas/Books/Untitled.md",
-    "Summa.md",
-    "Books/Academics/Sem - 9",
-    "Books/Academics",
-    "Notes/Academics/Sem - 9",
-    "Notes/Academics/Untitled.md",
-    "2026-08-24.md",
-    "Untitled/Untitled.canvas",
-    "Welcome.md"
+    "Notes/learnings/System-Design/Usecases/Stripe - Safe API Retries with Idempotency Keys.md",
+    "Notes/learnings/System-Design/Usecases/Uber - H3 Geospatial Marketplace Analysis.md",
+    "Notes/learnings/System-Design/Usecases/YouTube - Video Processing Pipeline.md",
+    "Notes/learnings/System-Design/Usecases/Amazon - Always-Available Shopping Cart with Dynamo.md",
+    "Notes/learnings/System-Design/Usecases/Slack - Scaling MySQL Beyond Workspace Shards with Vitess.md",
+    "Notes/learnings/System-Design/Usecases/Dropbox - Magic Pocket Erasure-Coded Storage.md",
+    "Notes/learnings/System-Design/Usecases/Discord-Concurrent-Websockets.md",
+    "Notes/learnings/System-Design/Usecases/Cloudflare - Pingora Shared Origin Connection Pools.md",
+    "Notes/learnings/System-Design/Usecases/Amazon - Route 53 DNS Failover Without Control-Plane Changes.md",
+    "Notes/learnings/System-Design/Usecases/Amazon - Lambda Asynchronous Invocation Isolation.md",
+    "Notes/learnings/System-Design/Usecases/Netflix - EVCache Multi-Region Caching.md",
+    "Notes/learnings/System-Design/Usecases/Netflix - Dependency Isolation with Hystrix.md",
+    "Notes/learnings/System-Design/Usecases/LinkedIn - Kafka Event Distribution and Delivery Auditing.md",
+    "Notes/learnings/System-Design/Usecases/Google - Tail-Tolerant Reads with Hedged Requests.md",
+    "Notes/learnings/System-Design/Usecases/Google - Globally Consistent Transactions with Spanner.md",
+    "Notes/learnings/System-Design/Usecases/Google - Dapper Distributed Tracing.md",
+    "Notes/learnings/Interview Prep/Top 50 OOP Interview Questions and Answers.md",
+    "Notes/learnings/System-Design/Usecases/GitHub - Online Schema Migrations with gh-ost.md",
+    "Notes/learnings/System-Design/Concepts/Hierarchical Spatial Indexing.md",
+    "Notes/learnings/System-Design/Concepts/External Consistency.md",
+    "Notes/learnings/System-Design/Concepts/Distributed Tracing.md",
+    "Notes/learnings/System-Design/Concepts/Consistent Hashing.md",
+    "Notes/learnings/System-Design/Concepts/Connection Pooling.md",
+    "Notes/learnings/Interview Prep",
+    "Notes/AWS-IAM-Session/LocalStack-Demo-Guide.md",
+    "Daily/Tasks.md",
+    "output/axios-achronos/ambi-moorthy/ambi-moorthy-thank-you-poster.png",
+    "output/axios-achronos/ambi-moorthy",
+    "output/axios-achronos",
+    "output",
+    "output/axios-achronos/achronos-green-gold-v2.png",
+    "output/axios-achronos/achronos-doomsday-green-v3.png",
+    "output/axios-achronos/achronos-concept-preview.png",
+    "output/axios-achronos/achronos-background.png",
+    "Books/Productivity/ByteByteGo system design.pdf",
+    "Books/Political/milestones-f1.pdf",
+    "Books/Political",
+    "Books/Self-Help/The Mom Test by @robfitz.pdf",
+    "Books/Self-Help/The 48 Laws Of Power.pdf",
+    "Notes/learnings/System-Design/Usecases",
+    "Untitled.canvas",
+    "Untitled/Untitled.canvas"
   ]
 }

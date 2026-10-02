@@ -2,3 +2,5 @@
 - [ ] Working Backwards Amazon
 - [ ] Psycho Cybernetics
 - [ ] How Googls Works - Eric Schmidt
+- [ ] trilion Dollar coach - eric schmidt
+- [ ] Deep Work

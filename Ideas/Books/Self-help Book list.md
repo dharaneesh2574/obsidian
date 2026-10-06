@@ -4,3 +4,9 @@
 - [ ] How Googls Works - Eric Schmidt
 - [ ] trilion Dollar coach - eric schmidt
 - [ ] Deep Work
+
+Story Books
+- [ ] The count of monte cristo
+- [ ] A little life
+- [ ] Alchemist
+

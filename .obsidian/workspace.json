@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Books/Self-help Book list.md",
+                "file": "Notes/y-cipher/# BITS Pilani WILP — MBA in AI for Business.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Self-help Book list"
+              "title": "# BITS Pilani WILP — MBA in AI for Business"
             }
           }
         ]
@@ -203,8 +203,19 @@
   },
   "active": "afe3cd1f23eed68a",
   "lastOpenFiles": [
-    "Ideas/Books/Productivity Book list.md",
+    "Notes/y-cipher/Running cost.md",
+    "Notes/y-cipher/# BITS Pilani WILP — MBA in AI for Business.md",
+    "Summa.md",
+    "Notes/y-cipher",
+    "Notes/y-cipher/Running Cost.md",
+    "Books/Political/milestones-f1.pdf",
+    "Notes/y-cipher",
+    "Notes/learnings/Interview Prep/Top 50 OOP Interview Questions and Answers.md",
     "Ideas/Books/Self-help Book list.md",
+    "Books/Self-Help/The Mom Test by @robfitz.pdf",
+    "Books/Self-Help/The 48 Laws Of Power.pdf",
+    "Books/Productivity/ByteByteGo system design.pdf",
+    "Ideas/Books/Productivity Book list.md",
     "Notes/learnings/System-Design/Usecases/Stripe - Safe API Retries with Idempotency Keys.md",
     "Notes/learnings/System-Design/Usecases/Uber - H3 Geospatial Marketplace Analysis.md",
     "Notes/learnings/System-Design/Usecases/YouTube - Video Processing Pipeline.md",
@@ -221,15 +232,10 @@
     "Notes/learnings/System-Design/Usecases/Google - Tail-Tolerant Reads with Hedged Requests.md",
     "Notes/learnings/System-Design/Usecases/Google - Globally Consistent Transactions with Spanner.md",
     "Notes/learnings/System-Design/Usecases/Google - Dapper Distributed Tracing.md",
-    "Notes/learnings/Interview Prep/Top 50 OOP Interview Questions and Answers.md",
     "Notes/learnings/System-Design/Usecases/GitHub - Online Schema Migrations with gh-ost.md",
     "Notes/learnings/System-Design/Concepts/Hierarchical Spatial Indexing.md",
     "Notes/learnings/System-Design/Concepts/External Consistency.md",
-    "Notes/learnings/System-Design/Concepts/Distributed Tracing.md",
-    "Notes/learnings/System-Design/Concepts/Consistent Hashing.md",
-    "Notes/learnings/System-Design/Concepts/Connection Pooling.md",
     "Notes/learnings/Interview Prep",
-    "Notes/AWS-IAM-Session/LocalStack-Demo-Guide.md",
     "output/axios-achronos/ambi-moorthy/ambi-moorthy-thank-you-poster.png",
     "output/axios-achronos/ambi-moorthy",
     "output/axios-achronos",
@@ -238,12 +244,6 @@
     "output/axios-achronos/achronos-doomsday-green-v3.png",
     "output/axios-achronos/achronos-concept-preview.png",
     "output/axios-achronos/achronos-background.png",
-    "Books/Productivity/ByteByteGo system design.pdf",
-    "Books/Political/milestones-f1.pdf",
-    "Books/Political",
-    "Books/Self-Help/The Mom Test by @robfitz.pdf",
-    "Books/Self-Help/The 48 Laws Of Power.pdf",
-    "Notes/learnings/System-Design/Usecases",
     "Untitled.canvas",
     "Untitled/Untitled.canvas"
   ]
